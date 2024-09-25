@@ -9,7 +9,7 @@ Per semplificare il più possibile la preparazione dell'ambiente, sulla root del
 
 Lo script può essere avviato senza parametri per ottenere il build dell'immagine di default, ossia una immagine in modalità standalone realizzata a partire dalla release binaria disponibile su GitHub.
 
-Eseguendo invece lo scropt con il parametro '-h' è possibile conoscere i parametri di personalizzazione esistenti.
+Eseguendo invece lo script con il parametro '-h' è possibile conoscere i parametri di personalizzazione esistenti.
 
 ## Avvio immagine Docker
 
